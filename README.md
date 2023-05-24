@@ -48,7 +48,7 @@
 <h2>Muestra</h2>
 <p>Con insomnia tenemos nuestra lista de endpoints. Primero vamos a registrar un usuario. Para este endpoint no se requiere autenticación.</p>
 
-![create user endpoint](https://github.com/Loveless2k/ey_tech_challenge/assets/130776120/e87defbe-13ee-46fa-bf8a-b1f9d36af4d0)
+![create user endpoint](https://github.com/Loveless2k/ey_tech_challenge/assets/130776120/ca5ea0d5-56fe-4133-9f5d-fab691928412)
 
 <p>Como podemos observar, el payload en formato Json para el método POST consta de los atributos:</p>
 <ul>
