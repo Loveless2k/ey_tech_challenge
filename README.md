@@ -30,6 +30,10 @@
 
 <p>Se pueden probar estos endpoints usando aplicaciones como Postman o Insomnia que permiten enviar solicitudes HTTP a la API.</p>
 
+<h2> Script para la base de datos </2>
+
+<p>Se ha utilizado Flyway como herramienta en este proyecto, por lo que es posible encontrar los script para la base de datos en la carpeta db/migration dentro del proyecto, en formato H2.</p>
+
   <h2>Cómo Ejecutar el Proyecto</h2>
 <ol><li>Clona el repositorio en tu máquina local.</li>
 <li>Navega hasta el directorio del proyecto en tu terminal.</li>
@@ -143,6 +147,9 @@ Vamos a comprobar si se ha eliminado con éxito, buscando a Jorge en la lista de
 
 Con esto, hemos terminado el recorrido de esta aplicación restful.</p>
 
+<h2>Diagrama de la solución</h2>
+
+<p>En construcción, debido al tiempo no me ha sido posible aún generar el diagrama.</p>
 
 
 
