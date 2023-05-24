@@ -30,7 +30,7 @@
 
 <p>Se pueden probar estos endpoints usando aplicaciones como Postman o Insomnia que permiten enviar solicitudes HTTP a la API.</p>
 
-<h2> Script para la base de datos </2>
+<h2> Script para la base de datos </h2>
 
 <p>Se ha utilizado Flyway como herramienta en este proyecto, por lo que es posible encontrar los script para la base de datos en la carpeta db/migration dentro del proyecto, en formato H2.</p>
 
