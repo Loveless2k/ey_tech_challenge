@@ -28,6 +28,8 @@
 
   <li><b>POST /users:</b> Este endpoint se utiliza para crear un nuevo usuario. Se deben proporcionar los detalles del usuario en el cuerpo de la solicitud. Devuelve los detalles del usuario creado. Requiere autenticación.</li></ul>
 
+  <li><b>DEL /users/{id}</b> Este endpoint prepara el borrado lógico del usuario, en la plataforma.
+
 <p>Se pueden probar estos endpoints usando aplicaciones como Postman o Insomnia que permiten enviar solicitudes HTTP a la API.</p>
 
 <h2> Script para la base de datos </h2>
